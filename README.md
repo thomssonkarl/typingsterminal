@@ -1,6 +1,5 @@
 # Typings for Terminal
-Typing test for terminal
-
+Simple typing test for terminal written in C++
 
 # Quick Start
 - Clone the repository
